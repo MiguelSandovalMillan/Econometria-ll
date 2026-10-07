@@ -37,3 +37,5 @@ print(class(name))              # Caracter
 print(class(verdadero))         # Logico
 print(class(falso))             # Logico
 print(class(missing_value))     # Logico
+
+dsdsd
